@@ -19,7 +19,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := OP4ED5
-PRODUCT_NAME := omni_OP4ED5
+PRODUCT_NAME := OPPO Reno6 5G
 PRODUCT_BRAND := OPPO
 PRODUCT_MODEL := PEQM00
 PRODUCT_MANUFACTURER := oppo
