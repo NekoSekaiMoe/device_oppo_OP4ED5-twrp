@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/oppo/pepm00
+DEVICE_PATH := device/oppo/OP4ED5
 
 # API
 PRODUCT_SHIPPING_API_LEVEL := 31 #
