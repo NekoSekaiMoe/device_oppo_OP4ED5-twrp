@@ -5,6 +5,11 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+DEVICE_PATH := device/oppo/pepm00
+
+# API
+PRODUCT_SHIPPING_API_LEVEL := 31 #
+
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_OP4ED5.mk \
     $(LOCAL_DIR)/omni_OP4ED5.mk
