@@ -19,7 +19,7 @@ $(call inherit-product, device/oppo/OP4ED5/device.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := OP4ED5
-PRODUCT_NAME := OPPO Reno6 5G
+PRODUCT_NAME := OPPO
 PRODUCT_BRAND := OPPO
 PRODUCT_MODEL := PEQM00
 PRODUCT_MANUFACTURER := oppo
